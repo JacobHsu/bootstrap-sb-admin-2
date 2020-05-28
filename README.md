@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/JacobHsu/bootstrap-sb-admin-2.svg?branch=master)](https://travis-ci.org/JacobHsu/bootstrap-sb-admin-2)
+
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/)
 
 [SB Admin 2](https://startbootstrap.com/template-overviews/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
