@@ -11,6 +11,14 @@ For the legacy Bootstrap 3 version of this theme, you can view the [last stable 
 Chart.js | [Samples](https://www.chartjs.org/samples/latest/)  
 Area charts | Boundaries ([Line](https://www.chartjs.org/docs/latest/charts/line.html)) `bootstrap-sb-admin-2\js\demo\chart-area-demo.js`  
 
+## gh-pages
+
+git branch  
+git branch gh-pages  
+git checkout gh-pages  
+git merge master
+git push --set-upstream origin gh-pages
+
 ## Preview
 
 [![SB Admin 2 Preview](https://startbootstrap.com/assets/img/screenshots/themes/sb-admin-2.png)](https://blackrockdigital.github.io/startbootstrap-sb-admin-2/)
